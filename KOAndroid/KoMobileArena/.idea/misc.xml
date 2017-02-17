@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="EclipseCodeFormatter">
+    <option name="defaultSettings" value="true" />
+    <option name="formatter" value="ECLIPSE" />
+    <option name="id" value="1487152502604" />
+    <option name="name" value="default" />
+    <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../../../ko/code/CodeFormat/CodeTemplates_Android_v2.3@vszone.xml" />
+  </component>
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>

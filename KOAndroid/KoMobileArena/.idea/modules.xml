@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/KoLibs/KoLibs.iml" filepath="$PROJECT_DIR$/KoLibs/KoLibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KoLibCommon/KoLibCommon.iml" filepath="$PROJECT_DIR$/KoLibCommon/KoLibCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KoMainApp/KoMainApp.iml" filepath="$PROJECT_DIR$/KoMainApp/KoMainApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/KoMobileArena.iml" filepath="$PROJECT_DIR$/KoMobileArena.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibCommon/LibCommon.iml" filepath="$PROJECT_DIR$/LibCommon/LibCommon.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lottie/lottie.iml" filepath="$PROJECT_DIR$/lottie/lottie.iml" />
     </modules>
   </component>
 </project>

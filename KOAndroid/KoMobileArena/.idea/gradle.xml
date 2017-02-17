@@ -8,8 +8,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/KoLibs" />
+            <option value="$PROJECT_DIR$/KoLibCommon" />
+            <option value="$PROJECT_DIR$/KoMainApp" />
+            <option value="$PROJECT_DIR$/LibCommon" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/lottie" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
