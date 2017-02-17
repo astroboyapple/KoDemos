@@ -1,1 +1,1 @@
-include ':app', ':KoLibs'
+include ':app', ':KoLibCommon', ':KoMainApp', ':LibCommon', ':lottie'
