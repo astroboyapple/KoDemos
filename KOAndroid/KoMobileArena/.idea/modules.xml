@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/KoMainApp/KoMainApp.iml" filepath="$PROJECT_DIR$/KoMainApp/KoMainApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/KoMobileArena.iml" filepath="$PROJECT_DIR$/KoMobileArena.iml" />
       <module fileurl="file://$PROJECT_DIR$/LibCommon/LibCommon.iml" filepath="$PROJECT_DIR$/LibCommon/LibCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimeList/TimeList.iml" filepath="$PROJECT_DIR$/TimeList/TimeList.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/lottie/lottie.iml" filepath="$PROJECT_DIR$/lottie/lottie.iml" />
     </modules>

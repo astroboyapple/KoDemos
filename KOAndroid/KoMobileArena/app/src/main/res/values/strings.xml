@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Lottie</string>
     <string name="invalid_assets">Unable to load assets</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
